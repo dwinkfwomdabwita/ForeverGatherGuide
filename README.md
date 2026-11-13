@@ -4,7 +4,7 @@ Every profession in WoW: Forever: map routes, every trainer, live auction house 
 
 ## ⬇️ Download
 
-**[Download the latest version (GatherForever.zip)](https://github.com/dwinkfwomdabwita/ForeverGatherGuide/releases/latest/download/GatherForever.zip)**
+**[Download the latest version (GatherForever.zip)](https://github.com/dwinkfwomdabwita/GatherForever/releases/latest/download/GatherForever.zip)**
 
 Also on CurseForge as **Gather Forever** (once it's approved), so the CurseForge app can keep it updated for you.
 
