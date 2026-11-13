@@ -4,9 +4,9 @@ Every profession in WoW: Forever: map routes, every trainer, live auction house 
 
 ## ⬇️ Download
 
-**[Download the latest version (ForeverGatherGuide-v2.6.3.zip)](https://github.com/dwinkfwomdabwita/ForeverGatherGuide/releases/latest/download/ForeverGatherGuide-v2.6.3.zip)**
+**[Download the latest version (GatherForever.zip)](https://github.com/dwinkfwomdabwita/ForeverGatherGuide/releases/latest/download/GatherForever.zip)**
 
-No CurseForge and no GitHub account needed. Older versions are on the [Releases page](https://github.com/dwinkfwomdabwita/ForeverGatherGuide/releases).
+No CurseForge and no GitHub account needed. If that link ever stops working, grab the zip under **Assets** on the [latest release page](https://github.com/dwinkfwomdabwita/ForeverGatherGuide/releases/latest).
 
 ## How to install
 
